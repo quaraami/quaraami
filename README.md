@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @quaraami
+- 👋 Hi, I’m Timofey, nice to meet you
 
 <!---
 quaraami/quaraami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
